@@ -1,35 +1,47 @@
 PRIVACY POLICY
 Last updated: 15 February 2026
 
+
+
+
 1. INTRODUCTION
 
 Astique ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+
+
+
 
 2. INFORMATION WE COLLECT
 
 The information we may collect includes:
 
-  Information you provide directly
+  >> Information you provide directly
 
-    Name
-    
-    Email address
-    
-    Phone number
-    
-    Gender
-    
-    Country
+        Name
+        
+        Email address
+        
+        Phone number
+        
+        Gender
+        
+        Country
 
-  Automatically collected or service-related data
+  >> Automatically collected or service-related data
 
-  Logs related to voice calls (made or received) within the app (No Audio Files).
+        Logs related to voice calls (made or received) within the app (No Audio Files).
 
-  Membership related data
+        Membership related data
 
-  Subscription and payment related data
+        Subscription and payment related data
 
-  Device and network information required for app functionality
+        Device and network information required for app functionality
+
+
+
+
+
 
 3. APP PERMISSIONS AND THEIR USE
 
