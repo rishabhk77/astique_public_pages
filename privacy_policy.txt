@@ -18,11 +18,13 @@ The information we may collect includes:
 
   >> Information you provide directly
 
-        Name
+        username (Unique and not shared with anyone)
+
+        Name (Display Name can be any name and is not verified)
         
-        Email address
+        Email address (We do NOT share it with anyone)
         
-        Phone number
+        Phone number (We do NOT share your mobile number with anyone)
         
         Gender
         
