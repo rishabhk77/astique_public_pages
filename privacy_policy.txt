@@ -21,9 +21,9 @@ The information we may collect includes:
     
     Country
 
-Automatically collected or service-related data
+  Automatically collected or service-related data
 
-  Data related to voice calls made or received within the app
+  Logs related to voice calls (made or received) within the app (No Audio Files).
 
   Membership related data
 
