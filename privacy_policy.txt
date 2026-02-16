@@ -59,7 +59,7 @@ Our application may request the following permissions only to provide core featu
           Used to send call alerts, messages, and important app updates.
           
           Microphone (RECORD_AUDIO)
-          Required for voice call functionality. We do not recond / store audio.
+          Required for voice call functionality. We do not record / store audio.
           
           Modify Audio Settings (MODIFY_AUDIO_SETTINGS)
           Used to optimise call audio quality and manage speaker or headset behaviour.
