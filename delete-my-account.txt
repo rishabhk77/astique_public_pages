@@ -5,3 +5,4 @@ In order to delete your account on Astique application. You can choose two optio
 Please Note - Once an account is deleted we delete all the data including your details includinf email , mobile mobile number and country from our database.
               We will also delete your application data like call logs, membership details and subscription details.
               
+You can contact us on - support@astique.co
