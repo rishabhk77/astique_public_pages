@@ -1,5 +1,11 @@
 In order to delete your account on Astique application. You can choose two options.
-  Option 1 ) Use the application itself - Go to Profile Section > Tap 'Delete Account > Press "Confirm"
+ 
+
+Option 1 ) Use the application itself - Go to Profile Section > Tap three dots on the top right corner > then tap 'Delete Account'
+              Now type 'DELETE' and press Delete Account Button
+
+
+
   Option 2 ) You can send us an email from your registered email address and we will delete the account for you
 
 Please Note - Once an account is deleted we delete all the data including your details includinf email , mobile mobile number and country from our database.
